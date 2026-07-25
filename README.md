@@ -3,17 +3,17 @@
 I'm a software developer who enjoys building desktop applications and learning by creating real-world projects.
 
 Right now I'm working on
-🚀 Current Project
-🎮 NOVARA
+-🚀 Current Project
+-🎮 NOVARA
 
 A local-first desktop application for managing game libraries with features like:
 
-🎮 Game library management
-🔍 Automatic game detection
-📊 Playtime tracking
-💾 Save management
-🛡️ Installation verification
-🖥️ Modern desktop interface
+-🎮 Game library management
+-🔍 Automatic game detection
+-📊 Playtime tracking
+-💾 Save management
+-🛡️ Installation verification
+-🖥️ Modern desktop interface
 
 Everything here is something I'm learning from, experimenting with, or actively building.
 
