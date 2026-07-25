@@ -2,9 +2,7 @@
 
 I'm a software developer who enjoys building desktop applications and learning by creating real-world projects.
 
-Right now I'm working on
--🚀 Current Project
--🎮 NOVARA
+Currently, I'm building 🎮NOVARA, a modern desktop game library manager, while continuously improving my skills in software engineering and AI.
 
 A local-first desktop application for managing game libraries with features like:
 
