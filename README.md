@@ -13,12 +13,11 @@ Everything here is something I'm learning from, experimenting with, or actively 
 
 ---
 
-## A Bit About Me
+### Fun Facts
 
-- 🎮 I enjoy building software and playing story-driven games.
-- 🧩 I like solving problems more than memorizing syntax.
-- 🚀 Always learning something new through projects.
-- ☕ Probably debugging something right now.
+- 🎮 Story game enthusiast
+- 💻 I build things to learn
+- 🚀 Always improving
 
 ## 📫 Connect
 
