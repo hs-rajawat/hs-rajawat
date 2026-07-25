@@ -3,16 +3,6 @@
 I'm a software developer who enjoys building desktop applications and learning by creating real-world projects.
 
 Currently, I'm building 🎮NOVARA, a modern desktop game library manager, while continuously improving my skills in software engineering and AI.
-
-A local-first desktop application for managing game libraries with features like:
-
--🎮 Game library management
--🔍 Automatic game detection
--📊 Playtime tracking
--💾 Save management
--🛡️ Installation verification
--🖥️ Modern desktop interface
-
 Everything here is something I'm learning from, experimenting with, or actively building.
 
 ---
