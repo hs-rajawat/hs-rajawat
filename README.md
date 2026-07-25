@@ -9,18 +9,23 @@ Everything here is something I'm learning from, experimenting with, or actively 
 
 ## Tools & Tech
 
-- C++, Java, React, Tauri, Git & GitHub
+- C++, Java
+- JavaScript, TypeScript
+- React, Tauri
+- SQLite
+- Git & GitHub
 
 ---
 
-### Fun Facts
+## A Bit About Me
 
-- 🎮 Story game enthusiast
+- 🎮 I enjoy building software and playing story-driven games.
+- 🧩 I like solving problems more than memorizing syntax.
 - 💻 I build things to learn
-- 🚀 Always improving
+- ☕ Always improving
 
 ## 📫 Connect
 
 * GitHub: **github.com/hs-rajawat**
 ---
-> *"Build. Learn. Improve. Repeat."*
+> *"The best way to learn is to build."*
