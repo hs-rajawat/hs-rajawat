@@ -21,11 +21,7 @@ Everything here is something I'm learning from, experimenting with, or actively 
 
 ## Tools & Tech
 
-- C++, Java
-- JavaScript, TypeScript
-- React, Tauri
-- SQLite
-- Git & GitHub
+- C++, Java, React, Tauri, Git & GitHub
 
 ---
 
